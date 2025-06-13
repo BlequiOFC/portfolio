@@ -11,7 +11,7 @@ export default function HomePage() {
           <div className="flex flex-col items-center justify-center text-center">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
               Hello <AuroraText colors={["#D60270", "#9B4F9B", "#0038A8"]}>World</AuroraText>
-              <span>👋</span>
+              <span>🌎</span>
             </h1>
           </div>
         </section>
